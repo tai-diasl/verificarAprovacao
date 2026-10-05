@@ -1,0 +1,19 @@
+{
+  "name": "verificaraprovacao",
+  "version": "1.0.0",
+  "main": "source/verificarAprovacao.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Taís Dias",
+  "license": "ISC",
+  "description": "Programa que verifica a aprovação de um aluno com base na média e na frequência",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
